@@ -1,0 +1,6 @@
+body{background-color:#FFE450;color: black;font-family: Georgia, 'Times New Roman', Times, serif;text-align: center;}
+table{width: 50%;line-height: 2;background-color: #FFE450;outline-style: groove;}
+input{background-color: #FFE450; line-height: 2;border: none;outline: none;}
+td  {text-align: center;}
+.im {display: flex;align-items: top;justify-content:center;}
+img {margin: 10px;}
